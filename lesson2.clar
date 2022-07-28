@@ -6,10 +6,10 @@
 ;; island and needs some help getting to the treasure map. You can tell Toshi
 ;; where to go using these functions:
 
-;;   move-forward: Toshi walks one block forward
-;;   turn-left:    Toshi turns 90 degrees left
-;;   turn-right:   Toshi turns 90 degrees right
-;;   collect:      Toshi collects an item that is directly in front of him
+;;   (move-forward)  Toshi walks one block forward
+;;   (turn-left)     Toshi turns 90 degrees left
+;;   (turn-right)    Toshi turns 90 degrees right
+;;   (collect)       Toshi collects an item that is directly in front of him
 
 ;; ** Mission **
 ;;   Put together a sequence of function calls to help Toshi get to the map.

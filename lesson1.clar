@@ -29,6 +29,9 @@
 ;; worry mate. All you need to know is that everything in Clarity is a list
 ;; wrapped in parentheses.
 
+;; Lines like these that start with ";;" are comments, they get ignored, but
+;; can be helpful to document your code.
+
 ;; In the code below, we're going to call a function named `ahoy` by wrapping
 ;; its name in parentheses. Calling a function triggers some predefined set of
 ;; actions.
