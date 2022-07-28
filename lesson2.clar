@@ -1,3 +1,18 @@
+;;         _,-._
+;;         ; ___ :
+;;     ,--' (. .) '--.__
+;;   _;      |||        \
+;;  '._,-----''';=.____,"
+;;    /// < o>   |##|
+;;    (o        \`--'
+;;   ///\ >>>>  _\ <<<<
+;;  --._>>>>>>>><<<<<<<<
+;;  ___() >>>[||||]<<<<
+;;  `--'>>>>>>>><<<<<<<
+;;       >>>>>>><<<<<<
+;;         >>>>><<<<<
+;;          >>>><<<<
+
 ;; Aye, you called your first Clarity contract! Take a look at the Captain's
 ;; Log over there on the right. That's where you'll see useful output from
 ;; the code you run here.

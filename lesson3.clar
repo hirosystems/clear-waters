@@ -1,3 +1,20 @@
+;;             .
+;;             |\
+;;             | \
+;;             |  \
+;;             |   \
+;;             |    \
+;;             |     \
+;;             |      \
+;;             |       \       ____O
+;;             |        \     .' ./
+;;             |   _.,-~"\  .',/~'
+;;             <-~"   _.,-~" ~ |
+;; ^"~-,._.,-~"^"~-,._\       /,._.,-~"^"~-,._.,-~"^"~-,._
+;; ~"^"~-,._.,-~"^"~-,._.,-~"^"~-,._.,-~"^"~-,._.,-~"^"~-,._
+;; ^"~-,._.,-~"^"~-,._.,-~"^"~-,._.,-~"^"~-,._.,-~"^"~-,._
+;; ~-,._.,-~"^"~-,._.,-~"^"~-,._.,-~"^"~-,._.,-~"^"~-,._
+
 ;; Yo-ho-ho! Nice job! Toshi's got the map, now we've got to get to the boat.
 ;; Now you know how to call a simple function, let's try something more
 ;; complex. You've seen the results showing up in your Captain's Log, but
