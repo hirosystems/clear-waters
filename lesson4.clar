@@ -26,6 +26,7 @@
 ;;  * "East"  (>)
 ;;  * "South" (v)
 ;;  * "West"  (<)
+;; There are at most 15 steps in the map.
 ;; After you've followed all of the steps, make sure to collect the booty!
 
 ;; ** Mission **
