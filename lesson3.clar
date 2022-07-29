@@ -39,7 +39,8 @@
 ;; When you get in front of it, Toshi is going to need to need to solve the
 ;; crew's riddle to board the ship: What do you call a pirate that skips class?
 
-;;   (board password)        Toshi tries to board the ship
+;;   (board solution)        Toshi tries to board the ship with the solution to
+;;                            the riddle
 
 ;; ** Mission **
 ;;   Use these new functions to get Toshi on the ship and then get the ship to

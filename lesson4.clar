@@ -20,10 +20,16 @@
 ;; to follow the map to the buried treasure.
 
 ;; Legend has it that Black Beard created this map, and you know he's not going
-;; to make it easy for you. The map is encoded into a list of tuples. Each
-;; tuple specifies one step in the right direction towards the coffer.
+;; to make it easy for you. The map is encoded into a list of strings. Each
+;; string specifies one step in a compass direction:
+;;  * "North" (^)
+;;  * "East"  (>)
+;;  * "South" (v)
+;;  * "West"  (<)
+;; After you've followed all of the steps, make sure to collect the booty!
 
 ;; ** Mission **
 ;;   Define a function to follow the directions on the map and help Toshi find
 ;;   the hidden bounty. Your function should be named "follow-the-map" and
-;;   should take one argument, the map (you figure out the type)!
+;;   should take one argument, the map (you figure out the type)! When you
+;;   press Run, Toshi will call this function with the map.
